@@ -79,6 +79,34 @@ body{
     border: 0;
     color: white;
     font-size: 10px;
-    
-   
+}
+
+.goals{
+    background-color:   rgb(144, 9, 228);
+    padding: 8px;
+    margin: 5px;
+    border-radius: 25%; 
+    border: 0;
+    color: white;
+    font-size: 10px;
+}
+
+.recruiting{
+    background-color:   rgb(38, 167, 116);
+    padding: 8px;
+    margin: 5px;
+    border-radius: 25%; 
+    border: 0;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile{
+    background-color:   rgb(248, 161, 69);
+    padding: 8px;
+    margin: 5px;
+    border-radius: 25%; 
+    border: 0;
+    color: white;
+    font-size: 10px;
 }
