@@ -32,6 +32,7 @@ body{
     margin-top: 3px;
     background-color: white;
     border-radius: 1%;
+    
 }
 .navi{
     width: 800px;
@@ -64,11 +65,13 @@ body{
     font-size: 22px;
     padding-top: 30px;
     padding-left: 30px; 
+    list-style: none;   
 }       
 
 .selection__2{
     font-size: 18px;
     margin-top: 1px;
+    list-style: none;   
 }
 
 .button-editorial{
@@ -103,6 +106,26 @@ body{
 
 .mobile{
     background-color:   rgb(248, 161, 69);
+    padding: 8px;
+    margin: 5px;
+    border-radius: 25%; 
+    border: 0;
+    color: white;
+    font-size: 10px;
+}
+
+.website{
+    background-color:   rgb(201, 57, 189);
+    padding: 8px;
+    margin-top: 10px;
+    border-radius: 25%; 
+    border: 0;
+    color: white;
+    font-size: 10px;
+}
+
+.sales{
+    background-color:   rgb(55, 150, 109);
     padding: 8px;
     margin: 5px;
     border-radius: 25%; 
