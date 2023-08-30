@@ -10,6 +10,10 @@
     background-color:white;
 }
 
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
 body{
     background-color: whitesmoke;
 }
@@ -150,7 +154,7 @@ task list
 }
 
 .sales{
-    background-color:   rgb(55, 150, 109);
+    background-color:#B0C93C;
     padding: 8px;
     margin: 5px;
     border-radius: 25%; 
