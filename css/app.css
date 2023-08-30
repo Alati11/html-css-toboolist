@@ -63,15 +63,40 @@ body{
 
 .selection{
     font-size: 22px;
-    padding-top: 30px;
-    padding-left: 30px; 
-    list-style: none;   
+    padding-top: 20px;
+    padding-left: 50px; 
+    padding-bottom: 10x;
+    list-style: none; 
+    margin-bottom: 5px;  
 }       
 
 .selection__2{
     font-size: 18px;
     margin-top: 1px;
+    padding-left: 10px;
     list-style: none;   
+}
+
+/*
+task list
+*/
+.circle {
+	display: inline-block;
+	width: 24px;
+	aspect-ratio: 1 / 1;
+	border-radius: 50%;
+}
+
+.task__status {
+	color: green;
+	border: 1px solid;
+	text-align: center;
+	line-height: 20px;
+	margin-right: 10px;
+}
+
+.task__status.done {
+	color: red;
 }
 
 .button-editorial{
